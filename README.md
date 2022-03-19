@@ -1,5 +1,5 @@
 # 02582_MLComp
-![DTU](https://media.adm.dtu.dk/designguide/DTU_Design_Guide_Pro_User/DTU_Design_Guide_Logo/Corporate_Red/Corp_Red_RGB/Corp_Red_RGB.png)
+<img src="/Users/holgerehlers/Desktop/02582_MLComp/Figures/Corp_Red_RGB.png" alt="DTU" title="DTU">
 This is the repository for the DTU Course 02582 Case 1.
 # Description
 In this project...
