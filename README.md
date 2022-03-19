@@ -1,5 +1,5 @@
 # 02582_MLComp
-![DTU](/Users/holgerehlers/Desktop/02582_MLComp/Figures/Corp_Red_RGB.png)
+![Corp_Red_RGB](https://user-images.githubusercontent.com/80641437/159114973-77077b5b-f5a5-438a-867a-13637489f602.png)
 This is the repository for the DTU Course 02582 Case 1.
 # Description
 In this project...
