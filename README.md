@@ -1,6 +1,7 @@
 # 02582_MLComp
-![Corp_Red_RGB](https://user-images.githubusercontent.com/80641437/159114973-77077b5b-f5a5-438a-867a-13637489f602.png){width=50%}
-This is the repository for the DTU Course 02582 Case 1.
+<div>
+<img src="https://user-images.githubusercontent.com/80641437/159114973-77077b5b-f5a5-438a-867a-13637489f602.png" width="500" height="300"/>
+</div>
 # Description
 In this project...
 # Data set
